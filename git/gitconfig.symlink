@@ -8,7 +8,7 @@
         name = Riley Guerin
         email = guerin.riley@gmail.com 
 [credential]
-	helper = osxkeychain
+	    helper = osxkeychain
 [alias]
         co = checkout
         promote = !$ZSH/bin/git-promote
