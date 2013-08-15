@@ -22,6 +22,7 @@ Run this:
 git clone https://github.com/rileytg/dotfiles-linux.git ~/.dotfiles
 cd ~/.dotfiles
 script/bootstrap
+chsh -s /bin/zsh
 ```
 
 This will symlink the appropriate files in `.dotfiles` to your home directory.
